@@ -1,2 +1,2 @@
 # HTM2PDF
-Dla KW
+Skrypt do zamiany formatu Htm do PDF
